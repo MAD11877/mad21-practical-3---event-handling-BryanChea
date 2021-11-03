@@ -1,7 +1,7 @@
 package sg.edu.np.practical3activity;
 
 public class User {
-    //private String name;
+    private String name;
     private String desc;
     private Integer id;
     private boolean followed;
